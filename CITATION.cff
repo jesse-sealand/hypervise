@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: 'jesse-sealand/hypervise: Hypervise'
+message: 'If you use this software, please cite it as below.'
+authors:
+  - name: "Jesse C. Sealand"
+abstract: "Hypervise is a user-friendly virtual environment manager for Python."
+license: MIT
+license-url: "https://github.com/jesse-sealand/hypervise/blob/main/LICENSE"
+repository-code: "https://github.com/jesse-sealand/hypervise"
+keywords:
+  - python
+  - virtual environment
+type: software
+url: "https://github.com/jesse-sealand/hypervise"
